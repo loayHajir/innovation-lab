@@ -7,9 +7,12 @@ import FormControlLabel from '@mui/material/FormControlLabel';
 import FormControl from '@mui/material/FormControl';
 import FormLabel from '@mui/material/FormLabel';
 
+
+
 export default function Signup() {
   const paperStyle = { padding: '30px 60px', width: 400, margin: '20px auto' }
   const marginBlock = { marginBlock: '10px' }
+
 
   return (
     <>
