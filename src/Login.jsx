@@ -23,7 +23,7 @@ export default function Login() {
        </Typography>
 
        <Typography> Do you have an acount ?
-        <Link href=''> Sign Up </Link>
+        <Link href='./Signup'> Sign Up </Link>
        </Typography>
       </Paper>
      </Grid>
